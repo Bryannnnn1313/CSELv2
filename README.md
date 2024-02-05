@@ -77,4 +77,5 @@ sudo run ./configurator
    - This page is created when the the 'Commit' is pressed.
    - If points are gained or lost then a notification will trigger
 ## Known issues and planned updates
-- Write a sample explanation for a FTP server
+- Removing an empty flag from the modify page may break the Configurator
+    - Temporary solution is delete the database and rerun the Configurator
