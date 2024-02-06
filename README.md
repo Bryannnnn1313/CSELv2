@@ -72,6 +72,9 @@ sudo run ./configurator
    - The points will be on the left
    - Center will be any additional inputs needed, A drop down is available, but manual input is possible.
    - If flag is no longer needed, then you can remove it, if you don't it will be added into the database.
+### Report Page
+![Report Generator] (https://github.com/Bryannnnn1313/CSELv2/blob/master/Report%20Generation.png)
+   - This page creates an html page with every flag to keep on hand.
 ### Score Report
 ![Score Report](https://github.com/Bryannnnn1313/CSELv2/blob/master/ScoreReport.png)
    - This page is created when the the 'Commit' is pressed.
