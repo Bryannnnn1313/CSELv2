@@ -1,7 +1,7 @@
 # CSEL
 ## Cyberpatriot Scoring Engine: Linux
 
-CSEL is a scoring engine written in Python for scoring Linux CyberPatriot images. It is configured by adding scoring options into the save_data.db and running the scoringEngine executable. It now includes a web page Score Report. It works with Ubuntu.
+CSEL is a scoring engine written in Python for scoring Linux CyberPatriot-like images. It is configured by adding scoring options into the save_data.db and running the scoringEngine executable. It now includes a web page Score Report. It works with Ubuntu.
 
 ## Scorable Actions
 ### Gaining Points
