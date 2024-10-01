@@ -1,0 +1,9 @@
+/dist
+
+/build
+
+/__pycache__
+
+*.spec
+
+test.py
